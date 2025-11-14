@@ -1,0 +1,6 @@
+*.idea
+*.venv
+*.csv
+datasets/*.csv
+*.DS_Store
+.DS_Store
